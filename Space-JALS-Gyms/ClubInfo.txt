@@ -1,1 +1,7 @@
-﻿Space Jals Gyms - Pluto | 1 Pluto Way | Pluto | Milky Way | 100
+﻿100|Space Jals Gyms - Earth|Earth
+200|Space Jals Gyms - Pluto|Pluto
+300|Space Jals Gyms - Krypton|Krypton
+400|Space Jals Gyms - Mars|Mars
+500|Space Jals Gyms - Tatooine|Tatooine
+600|Space Jals Gyms - Gallifrey|Gallifrey
+700|Space Jals Gyms - Ilum|Ilum
